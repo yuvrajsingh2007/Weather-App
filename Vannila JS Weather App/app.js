@@ -24,3 +24,4 @@ window.addEventListener("DOMContentLoaded", () => {
   const dataSaved = ui.getFromLS();
   ui.populateUI(dataSaved);
 });
+
